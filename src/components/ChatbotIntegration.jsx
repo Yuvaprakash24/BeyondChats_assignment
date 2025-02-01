@@ -9,7 +9,7 @@ export function ChatbotIntegration({ onComplete }) {
   const [isIntegrated, setIsIntegrated] = useState(false);
 
   const handleTestChatbot = () => {
-    window.open('https://example.com?preview=true', '_blank');
+    window.open('https://wellnest-project.netlify.app/', '_blank');
   };
 
   const handleEmailInstructions = () => {
