@@ -55,6 +55,6 @@ To run this project locally:
 git clone https://github.com/YOUR_GITHUB_USERNAME/beyondchats-assignment.git  
 cd beyondchats-assignment  
 npm install  
-npm start```
+npm start
 
 The application will be available at http://localhost:3000/.
