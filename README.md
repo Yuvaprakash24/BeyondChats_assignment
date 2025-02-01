@@ -5,9 +5,9 @@ Welcome to my submission for the BeyondChats UI/UX Assignment. This project prov
 ## 🚀 Live Demo  
 
 [Visit the Live Website](https://beyondchats-assignment.netlify.app/)    
-or copy the below link and paste it in browser url  
-https://beyondchats-assignment.netlify.app/  
 ---
+or copy the link provided below and paste it in browser url  
+https://beyondchats-assignment.netlify.app/    
 
 ## 🛠️ Features  
 
